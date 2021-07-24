@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alirezarpi/alirezarpi.github.io"
+    "url": "https://github.com/alirezarpi/alirezarpi.github.io.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
